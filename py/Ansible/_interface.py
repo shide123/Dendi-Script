@@ -68,8 +68,8 @@ if __name__ == "__main__":
     resource = [{"hostname": "172.16.251.114", "port": "1221", "username": "lishide", "password": "lishide",
                  "ip": '172.16.251.114'}
                 ]
-    # resource = [{"hostname": "123.103.74.8", "port": "1221", "username": "lishide", "password": "lishide",
-    #              "ip": '123.103.74.8'}
+    # resource = [{"hostname": "123.103.666.66", "port": "1221", "username": "lishide", "password": "lishide",
+    #              "ip": '123.103.666.66'}
     #             ]
     interface = AnsiInterface(resource)
 
