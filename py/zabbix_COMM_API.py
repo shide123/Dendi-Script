@@ -153,8 +153,6 @@ def _get_spec_items(time_interval,items,):
 
     return 0
 
-
-
 if __name__ == '__main__':
     key = 'system'
     auth_ID = _get_auth()
